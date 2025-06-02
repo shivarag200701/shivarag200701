@@ -57,8 +57,10 @@
 
 ### 📌 Projects  
 🔹 **Satellite Collision Predictor** – Real-time orbit tracking and collision detection using React, FastAPI, and CesiumJS
+
 🔹 **AI Resume & Cover Letter Generator** – Personalized document generation using OpenAI, React, and FastAPI (JobGenie)
-🔹 **WhatsApp** – Full-stack real-time messaging app with smart replies, read receipts, and WebSocket integration
+
+🔹 **WhatsApp Clone** – Full-stack real-time messaging app with smart replies, read receipts, and WebSocket integration
 
 ---
 
