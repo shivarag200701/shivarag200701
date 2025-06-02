@@ -56,9 +56,9 @@
 ---
 
 ### 📌 Projects  
-🔹 **Travel Recommendation Engine** – AI-based personalized itinerary generator  
-🔹 **Sentiment Analysis App** – Frontend NLP application  
-🔹 **Chicago Energy DataHub** – Forecasting energy demand using AI  
+🔹 **Satellite Collision Predictor** – Real-time orbit tracking and collision detection using React, FastAPI, and CesiumJS
+🔹 **AI Resume & Cover Letter Generator** – Personalized document generation using OpenAI, React, and FastAPI (JobGenie)
+🔹 **WhatsApp** – Full-stack real-time messaging app with smart replies, read receipts, and WebSocket integration
 
 ---
 
