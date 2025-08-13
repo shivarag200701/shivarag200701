@@ -4,14 +4,14 @@
 
 <p align="center">
   <b>Master’s in Computer Science @ Illinois Institute of Technology (4.0 GPA)</b>  
-  <br>Specializing in JavaScript • TypeScript • Node.js • React • AWS
+  <br>Specializing in JavaScript • TypeScript • Node.js • Next.js • React • AWS
 </p>
 
 ---
 
 ### 💡 About Me
 - 🎓 **Master’s in Computer Science @ IIT Chicago**  
-- 🛠️ Building **scalable, high-performance applications** with JavaScript, TypeScript, Node.js, and AWS  
+- 🛠️ Building **scalable, high-performance applications** with JavaScript, TypeScript, Node.js, Next.js, React, and AWS  
 - 💼 **Software Engineering Intern @ Mermory** — delivering SEO-optimized, cloud-powered solutions  
 - ☁️ Experienced with **AWS S3, Lambda, DynamoDB, SQS** for cloud deployment and automation  
 - 📡 Passionate about **distributed systems, real-time applications, and AI-driven solutions**  
@@ -19,7 +19,7 @@
   - **Cloud Deployment Platform (Vercel Clone)** – AWS-based multi-service architecture for automated builds and hosting  
   - **Satellite Collision Predictor** – Real-time orbit visualization with CesiumJS & FastAPI  
   - **AI Resume Analyzer (RESUMID)** – Tailored resume feedback using AI, LangChain & ChromaDB  
-- 🎯 Aspiring to design the **next generation of full-stack and cloud-native systems**  
+- 🎯 Aspiring to design the **next generation of full-stack and cloud-native systems** 
 
 
 ---
