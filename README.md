@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Display&weight=600&size=40&pause=600&color=F7F7F7&background=FFFFFF00&vCenter=true&random=false&width=503&height=65&lines=Hi+There+%F0%9F%91%8B!;I+am+Priyam+Aggarwal.)](https://git.io/typing-svg)<img align="right" alt="Your Image" width="450px"  src="spidertocat.png" >
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Display&weight=600&size=40&pause=600&color=F7F7F7&background=FFFFFF00&vCenter=true&random=false&width=503&height=65&lines=Hi+There+%F0%9F%91%8B!;I+am+Shiva+Raghav.)](https://git.io/typing-svg)
+
 
 ---
 
@@ -17,54 +18,36 @@
 
 ---
 
-### 🛠 Tech Stack  
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frappe-0094F5?style=for-the-badge&logo=frappe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-</p>
+<h2 >⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,c,cpp,java,bash,react,redux,html,css,bootstrap,tailwind,mui,nodejs,express,spring,flask,graphql,mongodb,postgresql,sqlite,firebase,aws,docker,kubernetes,git,github,npm,postman,vercel,vscode,eclipse,idea,scikitlearn,hibernate,jest,figma"/>
+
+
+<br>
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivarag200701&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivarag200701&theme=radical" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivarag200701&layout=compact&theme=radical" alt="Top Languages">
-  
-</p>
+## <img width="40px" src="https://img.shields.io/badge/-100000?logo=github&logoColor=white"/> Github Stats :  <img width="40px" src="https://img.shields.io/badge/-100000?logo=github&logoColor=white"/>
+
+<img src="https://pacman.abozanona.me/?username=shivarag200701" />
 
 ---
 
 ### 📌 Projects  
-🔹 **Satellite Collision Predictor** – Real-time orbit tracking and collision detection using React, FastAPI, and CesiumJS
+🔹 **Cloud Deployment Platform (Vercel Clone)** – AWS-based multi-service architecture for automated builds and hosting
 
 🔹 **AI Resume & Cover Letter Generator** – Personalized document generation using OpenAI, React, and FastAPI (JobGenie)
 
 🔹 **WhatsApp Clone** – Full-stack real-time messaging app with smart replies, read receipts, and WebSocket integration
 
 ---
+<td colspan="2" align="center">
+      ### Activity Contributions Graph
+      <br/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivarag200701&radius=16&theme=high-contrast&area=true&order=5&custom_title=Activity%20Contributions%20Graph&line=00ff00&area_color=005f99&bg_color=000000&hide_border=true" alt="Activity Graph" />
+    </td>
+  </tr>
+</table>
 
 ### 📫 Connect With Me  
 <p align="center">
