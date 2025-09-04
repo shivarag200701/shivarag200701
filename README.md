@@ -64,4 +64,4 @@
 
 ---
 
-💡 *"Building AI solutions that matter!"* 🚀
+💡 *"Building AI solutions that matter and scale at large!"* 🚀
