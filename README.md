@@ -5,7 +5,7 @@
 
 ### 💡 About Me
 - 🎓 **Master’s in Computer Science @ IIT Chicago**  
-- 🛠️ Building **scalable, high-performance applications** with JavaScript, TypeScript, Node.js, Next.js, React, and AWS  
+- 🛠️ Building **scalable, high-performance applications** with JavaScript, TypeScript, Node.js, Next.js, React, Postgres, express, and AWS  
 - 💼 **Software Engineering Intern @ Mermory** — delivering SEO-optimized, cloud-powered solutions  
 - ☁️ Experienced with **AWS S3, Lambda, DynamoDB, SQS** for cloud deployment and automation  
 - 📡 Passionate about **distributed systems, real-time applications, and AI-driven solutions**  
