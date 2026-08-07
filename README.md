@@ -1,67 +1,71 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Display&weight=600&size=40&pause=600&color=F7F7F7&background=FFFFFF00&vCenter=true&random=false&width=503&height=65&lines=Hi+There+%F0%9F%91%8B!;I+am+Shiva+Raghav.)](https://git.io/typing-svg)
-
-
----
-
-### 💡 About Me
-- 🎓 **Master’s in Computer Science @ IIT Chicago**  
-- 🛠️ Building **scalable, high-performance applications** with JavaScript, TypeScript, Node.js, Next.js, React, Postgres, express, and AWS 
-- 💼 **Software Engineering Intern @ Mermory** — delivering SEO-optimized, cloud-powered solutions  
-- ☁️ Experienced with **AWS S3, Lambda, DynamoDB, SQS** for cloud deployment and automation  
-- 📡 Passionate about **distributed systems, real-time applications, and AI-driven solutions**  
-- 🚀 Projects include:
-  - **Cloud Deployment Platform (Vercel Clone)** – AWS-based multi-service architecture for automated builds and hosting  
-  - **Satellite Collision Predictor** – Real-time orbit visualization with CesiumJS & FastAPI  
-  - **AI Resume Analyzer (RESUMID)** – Tailored resume feedback using AI, LangChain & ChromaDB  
-- 🎯 Aspiring to design the **next generation of full-stack and cloud-native systems** 
-
-
----
-
-<h2 >⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,c,cpp,java,bash,react,redux,html,css,bootstrap,tailwind,mui,nodejs,express,spring,flask,graphql,mongodb,postgresql,sqlite,firebase,aws,docker,kubernetes,git,github,npm,postman,vercel,vscode,eclipse,idea,scikitlearn,hibernate,jest,figma"/>
-
-
-<br>
-
----
-
-## <img width="40px" src="https://img.shields.io/badge/-100000?logo=github&logoColor=white"/> Github Stats :  <img width="40px" src="https://img.shields.io/badge/-100000?logo=github&logoColor=white"/>
-
-<img src="https://pacman.abozanona.me/?username=shivarag200701" />
-
----
-
-### 📌 Projects  
-🔹 **Cloud Deployment Platform (Vercel Clone)** – AWS-based multi-service architecture for automated builds and hosting
-
-🔹 **AI Resume & Cover Letter Generator** – Personalized document generation using OpenAI, React, and FastAPI (JobGenie)
-
-🔹 **WhatsApp Clone** – Full-stack real-time messaging app with smart replies, read receipts, and WebSocket integration
-
----
-<td colspan="2" align="center">
-      ### Activity Contributions Graph
-      <br/>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivarag200701&radius=16&theme=high-contrast&area=true&order=5&custom_title=Activity%20Contributions%20Graph&line=00ff00&area_color=005f99&bg_color=000000&hide_border=true" alt="Activity Graph" />
-    </td>
-  </tr>
-</table>
-
-### 📫 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/shiva-raghav/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Display&weight=600&size=40&pause=600&color=58A6FF&background=FFFFFF00&vCenter=true&random=false&width=503&height=65&lines=Hi+There+%F0%9F%91%8B!;I+am+Shiva+Raghav." alt="Typing SVG" />
   </a>
-  <a href="https://github.com/ShivaRaghav">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.shiva-raghav.com/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
+</p>
+
+Backend and full-stack engineer. Sunnyvale, CA.
+
+I work on the unglamorous parts of production systems: ingestion reliability, background job infrastructure, and the failure modes that only show up at volume.
+
+**Currently:** building FlowTask, and looking for backend / full-stack work at an early-stage team.
+
+---
+
+## What I've built
+
+**FlowTask** — Task and goal management platform with an AI planning agent. Solo-built and running in production.
+`Turborepo` · `React` · `TypeScript` · `Node` · `Postgres` · `Prisma` · `Meilisearch` · `BullMQ`
+
+The parts worth talking about: a background job layer handling scheduled agent check-ins with per-user context assembled at runtime, and a four-layer evaluation loop for LLM output — schema validation, heuristic checks, LLM-as-judge, and a golden set — because the naive version of this drifts silently and you don't find out until users do.
+
+[Repo](https://github.com/shivarag200701/flowtask) · [Docs](https://github.com/shivarag200701/flowTask-docs) · [Live](https://www.shiva-raghav.com/)
+
+**Mermory** — Founding Engineer. Document-to-flashcard platform.
+
+Rebuilt the ingestion pipeline from 70% to 98% success across 12,000+ items using idempotency keys and at-least-once delivery. The original pipeline dropped work silently on retry; the fix was making every stage safe to run twice.
+
+**Agnikul Cosmos** — Aerospace validation and microservices systems. Chennai, India.
+
+Decomposed a monolithic validation service into independently deployable components.
+
+**Cloud Deployment Platform** — Multi-service build-and-host pipeline on AWS (S3, Lambda, SQS, ECS). Build queueing, log streaming, and artifact serving.
+
+[Repo](https://github.com/shivarag200701/cloud_deployment_platform)
+
+---
+
+## Work I do outside my own projects
+
+Contributor to [oxc](https://github.com/oxc-project/oxc) — Rust-based JavaScript toolchain.
+
+---
+
+## Stack
+
+**Primary:** TypeScript, Node.js, Python, PostgreSQL, Prisma, Redis, BullMQ
+**Also:** React, Next.js, Express, Meilisearch, Docker, AWS
+
+---
+
+## Background
+
+M.S. Computer Science, Illinois Institute of Technology, Chicago.
+
+Previously mechanical engineering — which is where I learned that most systems fail at the interfaces, not the components.
+
+---
+
+## Activity
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivarag200701&theme=dark&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivarag200701&radius=16&theme=github-compact&area=true&hide_border=true&custom_title=Contributions" alt="Contribution graph" />
 </p>
 
 ---
 
-💡 *"Building AI solutions that matter and scale at large!"* 🚀
+[Portfolio](https://www.shiva-raghav.com/) · [LinkedIn](https://www.linkedin.com/in/shiva-raghav/)
