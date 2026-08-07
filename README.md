@@ -4,9 +4,7 @@
   </a>
 </p>
 
-Backend and full-stack engineer. San Francisco, CA.
-
-I work on the unglamorous parts of production systems: ingestion reliability, background job infrastructure, and the failure modes that only show up at volume.
+Backend engineer working on AI systems. I work on the unglamorous parts of production LLM products: ingestion reliability, background job infrastructure, and the failure modes that only show up at volume.
 
 **Currently:** building FlowTask, and looking for backend / full-stack work at an early-stage team.
 
